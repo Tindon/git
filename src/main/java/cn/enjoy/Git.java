@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Git {
     @RequestMapping("/home")
     public String home(){
-        return "hello! Git --master 2.0 ";
+        return "hello! Git -->>master 0.1 ";
     }
 }
